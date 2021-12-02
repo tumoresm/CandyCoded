@@ -19,5 +19,11 @@
     <activity android:name=".DetailActivity" />
     <activity android:name=".InfoActivity"></activity>
   </application>
+ <!-- <queries>
+    &lt;!&ndash; Specific intents you query for &ndash;&gt;
+    <intent>
+      <action android:name="android.intent.action.DIAL" />
+    </intent>
+  </queries>-->
 
 </manifest>

@@ -41,6 +41,6 @@ ehthumbs.db
 Thumbs.db
 
 # Gradle files
-.idea/gradle.xml
-build.gradle
-gradle/wrapper/gradle-wrapper.properties
+#.idea/gradle.xml
+#build.gradle
+#gradle/wrapper/gradle-wrapper.properties
